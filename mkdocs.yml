@@ -1,17 +1,54 @@
 site_name: i factorial
+repo_url: https://github.com/i-factorial/ifactorial_website/
+edit_uri: edit/main/docs/
 theme:
   name: gitbook
   language: ja
   features:
     - navigation.tracking
     - navigation.tabs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
 nav:
   - Home: "index.md"
   - "越境する知性会議":
       - "第四回": "ekkyo/event4.md"
 markdown_extensions:
-  - mdx_math
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.critic
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tabbed
+  - attr_list
+  - admonition
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  # Latex
+  - pymdownx.arithmatex:
+      generic: true
+extra:
+  search:
+    language: "ja"
 extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 plugins:
   - include-markdown
