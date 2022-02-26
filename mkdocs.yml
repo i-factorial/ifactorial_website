@@ -2,11 +2,24 @@ site_name: i factorial
 repo_url: https://github.com/i-factorial/ifactorial_website/
 edit_uri: edit/main/docs/
 theme:
-  name: gitbook
+  name: material
   language: ja
   features:
     - navigation.tracking
     - navigation.tabs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 nav:
   - Home: "index.md"
   - "越境する知性会議":
