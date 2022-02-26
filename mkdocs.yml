@@ -7,13 +7,6 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
 nav:
   - Home: "index.md"
   - "越境する知性会議":
