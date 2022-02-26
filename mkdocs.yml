@@ -1,0 +1,19 @@
+site_name: i factorial
+theme:
+  name: gitbook
+  language: ja
+  features:
+    - navigation.tracking
+    - navigation.tabs
+nav:
+  - Home: "index.md"
+  - "越境する知性会議":
+      - "第四回": "ekkyo/event4.md"
+markdown_extensions:
+  - mdx_math
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+plugins:
+  - include-markdown
+  - search:
+      lang: ja
