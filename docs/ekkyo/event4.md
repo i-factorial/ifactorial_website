@@ -10,6 +10,6 @@ zoom (zoom のリンクは当日にメールでお知らせします。)
 
 ## 参加申込フォーム
 
-以下の google form から参加の申し込みが可能です。
+以下の Google form から参加の申し込みが可能です。
 
 [https://forms.gle/Sdy53h5LUSWp9ftr5](https://forms.gle/Sdy53h5LUSWp9ftr5)
