@@ -27,5 +27,5 @@ jobs:
           pip install mkdocs-include-markdown-plugin
       - name: Deploy documentation
         run: |
-          mkdocs gh-deploy
+          mkdocs gh-deploy --force
           mkdocs --version
