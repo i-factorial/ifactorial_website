@@ -3,7 +3,8 @@ repo_url: https://github.com/i-factorial/ifactorial_website/
 edit_uri: edit/main/docs/
 theme:
   name: material
-  favicon: ekkyo/figs/favicon.png
+  favicon: assets/figs/favicon.png
+  logo: assets/figs/favicon.png
   language: ja
   features:
     - navigation.tracking
