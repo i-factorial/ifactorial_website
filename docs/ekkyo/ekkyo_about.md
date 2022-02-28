@@ -24,6 +24,8 @@
 越境する知性会議の参加に際して、年齢や所属機関・学術見識の多寡などは一切制限いたしません。
 参加したいという気持ちがある方は誰でもご参加いただけます！
 
+![seminar](https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
 ## 具体的にどんなことをするの？
 
 越境する知性会議は 3 つのプログラムから成り立っています：
