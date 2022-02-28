@@ -1,6 +1,6 @@
 [参加される場合は、こちらから参加登録をお願いいたします。](https://forms.gle/Sdy53h5LUSWp9ftr5)
 
-<img src="figs/flier4.png" width="140%" style="display: block; margin: auto;">
+<img src="figs/flier4.png" width="100%" style="display: block; margin: auto;">
 
 
 ## プログラム
