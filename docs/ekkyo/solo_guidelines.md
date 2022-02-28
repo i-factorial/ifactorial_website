@@ -2,7 +2,7 @@
 
 このページには、過去の越境する知性会議･脱線する知性カフェで得られた発表者向けの知見を載せています。
 
-![webinar 50%](https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)
+<img src="https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" width="50%" style="display: block; margin: auto;">
 
 ## 発表のルール
 - 発表は10~40分程度のものをお願いしています

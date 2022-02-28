@@ -1,4 +1,5 @@
-![i factorial 50%](./ekkyo/figs/wide.png)
+<img src="./ekkyo/figs/wide.png" width="50%" style="display: block; margin: auto;">
+
 i factorial は「アマチュアのためのアカデミア」をコンセプトに、高校生・大学生を中心とした方々の探究活動を支援する学生団体です。  
 越境する知性会議、脱線する知性カフェなどのイベントを中心として、さまざまな活動を行っています。
 

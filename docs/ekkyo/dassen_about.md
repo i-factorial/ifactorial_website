@@ -22,7 +22,8 @@
 参加したいという気持ちがある方は誰でもご参加いただけます！
 
 
-![scicafe](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHNlbWluYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60)
+<img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHNlbWluYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" width="100%" style="display: block; margin: auto;">
+
 
 
 ## 具体的にどんなことをするの？
