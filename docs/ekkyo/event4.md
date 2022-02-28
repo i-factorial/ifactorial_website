@@ -1,4 +1,6 @@
-![flier](figs/flier4.png)
+[参加される場合は、こちらから参加登録をお願いいたします。](https://forms.gle/Sdy53h5LUSWp9ftr5)
+
+![flier4](figs/flier4.png)
 
 
 ## プログラム
@@ -27,8 +29,3 @@
 
 ZOOM (リンクは前日にメールでお知らせします。)
 
-## 参加登録
-
-以下の Google form から参加登録が可能です。
-
-[https://forms.gle/Sdy53h5LUSWp9ftr5](https://forms.gle/Sdy53h5LUSWp9ftr5)
