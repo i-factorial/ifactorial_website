@@ -1,6 +1,6 @@
 [参加される場合は、こちらから参加登録をお願いいたします。](https://forms.gle/Sdy53h5LUSWp9ftr5)
 
-<video src="figs/flier4.mp4"></video>
+![flier4](figs/flier4.png)
 
 
 ## プログラム
