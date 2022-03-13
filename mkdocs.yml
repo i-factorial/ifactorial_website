@@ -26,7 +26,7 @@ nav:
   - Home: "index.md"
   - "越境する知性会議":
       - About: "ekkyo/ekkyo_about.md"
-      - "第四回": "ekkyo/event4.md"
+      - "第4回": "ekkyo/event4.md"
       - "発表者向けガイドライン": "ekkyo/solo_guidelines.md"
   - "脱線する知性カフェ":
       - About: "ekkyo/dassen_about.md"
